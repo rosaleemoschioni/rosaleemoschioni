@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rosaleemoschioni
 - 👀 I’m interested in product marketing and communications
-- 🌱 I’m currently learning more about BFCM at Shopify!
+- 🌱 I’m currently learning more about LLMs!
 - 💞️ I’m looking to collaborate on PMM campaigns 
 - 📫 How to reach me @rosalee on Slack
 - 😄 Pronouns: she/her
